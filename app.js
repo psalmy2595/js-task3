@@ -34,7 +34,7 @@ let checkDivisors = (num) => {
             // return checkedArray 
     return checkedArray;
 }
-// callled the function checkDivisors with 100 in terminal
+// called the function checkDivisors with 80 in terminal
 console.log (checkDivisors(80));
 
 
